@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408963864280",
+    "project_id": "course-f1db9",
+    "storage_bucket": "course-f1db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408963864280:android:589ceef1bbe18fb4da69ad",
+        "android_client_info": {
+          "package_name": "com.example.android.miwok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408963864280-818c421l5vfmikgmji08h29m9qt852hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWftC9v2v97fkSw1FJYB6qOhh9-hllM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408963864280-818c421l5vfmikgmji08h29m9qt852hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
